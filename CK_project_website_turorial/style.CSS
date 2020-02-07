@@ -1,0 +1,16 @@
+
+h1{
+   background-color: aqua; 
+   height: 50px;
+   text-align: center;
+   text-size-adjust: 100%;
+   text-justify: auto;
+   text-rendering: geometricPrecision;
+   
+}
+<style> 
+#myDIV {
+    justify-content: center;
+    justify-self: center;
+    justify-items: center;
+}
